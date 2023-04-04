@@ -1,0 +1,40 @@
+.proyects{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.main-contain-proyects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    padding: 2rem;
+}
+
+.cards-proyects{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-proyecto{
+    width: 20rem;
+}
+.title-description{
+    font-size: 2rem;
+    color: white;
+}
+
+.cards-proyects a{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: #04f1de;
+    border-radius: 5px;
+}

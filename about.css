@@ -1,0 +1,73 @@
+.main-body{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    margin-top: 10rem;
+}
+.about-me{
+    display: flex;
+    width: 50%;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+.title{
+    font-size: 4rem;
+    color: white;
+    
+}
+.title-secundario{
+    text-align: center;
+    font-size: 2rem;
+    color: #04f1de;
+    margin-top: 2rem;
+}
+.texto{
+    font-size: 1.6rem;
+    color: white;
+    margin-top: 1rem;
+    width: inherit;
+}
+.profile{
+    border-radius: 0%;
+    
+    
+}
+.descripcion-text{
+    padding-top: 1rem;
+    color:white;
+    text-align: center;
+}
+.contact-contain{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.contact-list{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.contacto-text{
+    margin-top: 1rem;
+    font-size: 1.7rem;
+    color: #04f1de;
+}
+.contact-list {
+    margin-top: 2rem;
+}
+
+.contact-list li a{
+    color: white;
+    text-decoration: none;
+    padding: 2rem;
+}
+

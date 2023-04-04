@@ -1,0 +1,15 @@
+.footer-contain{
+    margin-top:5rem ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color:#fefbfb4d;
+}
+
+.footer-contain img{
+    width: 10rem;
+}
+.footer-contain p{
+    color: white;
+}
