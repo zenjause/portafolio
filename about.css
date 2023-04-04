@@ -42,8 +42,9 @@
     color:white;
     text-align: center;
 }
-.contact-contain{
+.contacto-contain{
     display: flex;
+    margin-top: 1rem;
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
