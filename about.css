@@ -72,3 +72,20 @@
     padding: 2rem;
 }
 
+@media screen and (max-width:800px){
+    .main-body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .about-me{
+        margin-bottom: 5rem;
+        width: 80%;
+    }
+    .profile{
+        width: 25rem;
+    }
+    .cards{
+        justify-content: space-around;
+    }
+}
