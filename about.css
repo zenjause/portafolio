@@ -88,4 +88,10 @@
     .cards{
         justify-content: space-around;
     }
+    .footer-contain{
+        flex-direction: column;
+    }
+    .footer-text{
+        margin-top: 1rem;
+    }
 }
